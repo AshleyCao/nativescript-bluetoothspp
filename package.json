@@ -1,0 +1,40 @@
+{
+  "_from": "file:nativescript-btspp.tgz",
+  "_id": "nativescript-btspp@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-Bhxv39Nh4/zGHOzXbkAGL9GgWyxhdVqKdVgmXnr+jD7m8vw8QsMx/dOVd+cdvO5MeJ6ULW9abkxaL8RpgPsNjQ==",
+  "_location": "/nativescript-btspp",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "file",
+    "where": "C:\\Users\\ashleyca\\Documents\\bluetoothspp",
+    "raw": "nativescript-btspp@file:nativescript-btspp.tgz",
+    "name": "nativescript-btspp",
+    "escapedName": "nativescript-btspp",
+    "rawSpec": "file:nativescript-btspp.tgz",
+    "saveSpec": "file:nativescript-btspp.tgz",
+    "fetchSpec": "C:\\Users\\ashleyca\\Documents\\bluetoothspp\\nativescript-btspp.tgz"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "C:\\Users\\ashleyca\\Documents\\bluetoothspp\\nativescript-btspp.tgz",
+  "_shasum": "854bad4e9a35a3224073669729c5e5fe581d6c2b",
+  "_spec": "nativescript-btspp@file:nativescript-btspp.tgz",
+  "_where": "C:\\Users\\ashleyca\\Documents\\bluetoothspp",
+  "author": {
+    "name": "Ash",
+    "email": "acao@pfdfood.com.au"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "main": "index.js",
+  "name": "nativescript-btspp",
+  "nativescript": {
+    "platforms": {
+      "android": "4.0.0",
+      "ios": "4.0.0"
+    }
+  },
+  "version": "0.0.1"
+}
